@@ -1,4 +1,4 @@
-# testpreact
+# Preact-Project-Template
 
 ## CLI Commands
 
